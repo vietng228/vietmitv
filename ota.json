@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "v7",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v7/vietmitv-v7.apk",
-  "sha256": "90F72C79D004F0FD07CFD072550A20375163F9B88E920C5BA3B1DF873A6F6513",
-  "notes": "VietMiTV v7: ghi nhớ kênh gần nhất và hỗ trợ cập nhật OTA trực tiếp."
+  "versionCode": 47,
+  "versionName": "v8",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v8/vietmitv-v8.apk",
+  "sha256": "A9F031B697AB49ED93D60365726D6F870E8D46EE9B38F3153E740ABDDE9E4351",
+  "notes": "VietMITV v8: tối ưu ứng dụng, sửa lỗi mở lại bị tải từ VTV1 và giữ nguyên kênh đang xem gần nhất."
 }
