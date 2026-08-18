@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "v8",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v8/vietmitv-v8-hotfix.apk",
-  "sha256": "03594D199DDD15EEEE9943278CAD21469918F519EC443ABB2EE79D2DAE17D74F",
-  "notes": "Bản cập nhật bắt buộc: tối ưu ứng dụng, giữ nguyên kênh đang xem và sửa thông báo OTA bị biến mất. Vui lòng cập nhật để tiếp tục sử dụng."
+  "versionCode": 49,
+  "versionName": "v9",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v9/vietmitv-v9.apk",
+  "sha256": "1377F0FC645F04CE03FA56B483E47AD94533E0FDBFA1F1E5F6D952EAD638A172",
+  "notes": "Test tính năng update OTA."
 }
