@@ -3,5 +3,5 @@
   "versionName": "v10",
   "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v10/vietmitv-v10.apk",
   "sha256": "90FFEE576BD63207AD829676E5BEBB2990D6C031E11F956346FD0ADB983661E6",
-  "notes": "Thêm cú pháp mở video trực tiếp: 'Mở nhạc trẻ' sẽ mở video đầu tiên trong danh sách tìm kiếm. 'Tìm nhạc trẻ' sẽ đưa danh sách video để chọn. Cải thiện hiệu suất."
+  "notes": "• Thêm cú pháp mở video trực tiếp: \"Mở nhạc trẻ\" sẽ mở video đầu tiên trong danh sách tìm kiếm.\n• \"Tìm nhạc trẻ\" sẽ đưa danh sách video để chọn.\n• Cải thiện hiệu suất."
 }
