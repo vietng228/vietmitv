@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "v9",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v9/vietmitv-v9.apk",
-  "sha256": "1377F0FC645F04CE03FA56B483E47AD94533E0FDBFA1F1E5F6D952EAD638A172",
-  "notes": "Test tính năng update OTA."
+  "versionCode": 52,
+  "versionName": "v10",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v10/vietmitv-v10.apk",
+  "sha256": "90FFEE576BD63207AD829676E5BEBB2990D6C031E11F956346FD0ADB983661E6",
+  "notes": "Thêm cú pháp mở video trực tiếp: 'Mở nhạc trẻ' sẽ mở video đầu tiên trong danh sách tìm kiếm. 'Tìm nhạc trẻ' sẽ đưa danh sách video để chọn. Cải thiện hiệu suất."
 }
