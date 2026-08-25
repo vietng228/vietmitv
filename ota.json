@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "v10",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v10/vietmitv-v10.apk",
-  "sha256": "90FFEE576BD63207AD829676E5BEBB2990D6C031E11F956346FD0ADB983661E6",
-  "notes": "• Thêm cú pháp mở video trực tiếp: \"Mở nhạc trẻ\" sẽ mở video đầu tiên trong danh sách tìm kiếm.\n• \"Tìm nhạc trẻ\" sẽ đưa danh sách video để chọn.\n• Cải thiện hiệu suất."
+  "versionCode": 55,
+  "versionName": "v11",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v11/VietMITV-v11-OTA.apk",
+  "sha256": "4C5E344E0D1F103F2B68864C9E70CB3C1F0F871001A18418165E25B6331D2345",
+  "notes": "Cập nhật cuối cùng\n• Sửa SCTV1 và nâng tương thích HLS/DASH, ClearKey, HTTP headers.\n• Sửa Thử lại cấp quyền gỡ lỗi ADB.\n• Gán phím giọng nói tùy chọn để giữ Google Assistant.\n• Hiển thị danh sách kênh trên màn hình chính.\n• Giữ phím sang phải để tải lại playlist hoặc cập nhật.\n• Tải lại mitv1905 trong nền, giữ nguyên kênh đang xem.\n• Có thể chọn BỎ QUA CẬP NHẬT để tiếp tục dùng v10."
 }
