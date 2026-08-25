@@ -3,5 +3,5 @@
   "versionName": "v11",
   "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v11/VietMITV-v11-OTA.apk",
   "sha256": "4C5E344E0D1F103F2B68864C9E70CB3C1F0F871001A18418165E25B6331D2345",
-  "notes": "Cập nhật cuối cùng\n• Sửa SCTV1 và nâng tương thích HLS/DASH, ClearKey, HTTP headers.\n• Sửa Thử lại cấp quyền gỡ lỗi ADB.\n• Gán phím giọng nói tùy chọn để giữ Google Assistant.\n• Hiển thị danh sách kênh trên màn hình chính.\n• Giữ phím sang phải để tải lại playlist hoặc cập nhật.\n• Tải lại mitv1905 trong nền, giữ nguyên kênh đang xem.\n• Có thể chọn BỎ QUA CẬP NHẬT để tiếp tục dùng v10."
+  "notes": "CẬP NHẬT VIETMITV V11\n\n• Cập nhật lại UI danh sách kênh, giờ đây có thể bấm sang trái 2 lần để hiển thị nhóm kênh.\n• Thêm nhấn giữ phím sang phải để tải lại playlist và kiểm tra cập nhật.\n• Cho phép gán phím giọng nói tùy chọn để giữ Google Assistant.\n• Hiển thị danh sách kênh trên màn hình chính Android TV/Google TV.\n\nĐây là bản cập nhật bắt buộc cuối cùng từ v10 lên v11. Một số thiết bị có thể không tương thích."
 }
