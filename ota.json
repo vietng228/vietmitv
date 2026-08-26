@@ -1,7 +1,3 @@
 {
-  "versionCode": 55,
-  "versionName": "v11",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v11/VietMITV-v11-OTA.apk",
-  "sha256": "4C5E344E0D1F103F2B68864C9E70CB3C1F0F871001A18418165E25B6331D2345",
-  "notes": "Cập nhật VietMITV v11\n\n- Cập nhật lại UI danh sách kênh, giờ đây có thể bấm sang trái 2 lần để hiển thị nhóm kênh.\n- Thêm nhấn giữ phím sang phải để load lại playlist và kiểm tra cập nhật.\n- Cho phép gán phím giọng nói tùy chọn để giữ Google Assistant.\n- Hiển thị danh sách kênh trên màn hình chính Android TV/Google TV.\n- Giữ phím sang phải khi đang xem để chọn Tải lại playlist hoặc Cập nhật ứng dụng"
+  "update": false
 }
