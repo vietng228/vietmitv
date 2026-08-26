@@ -1,7 +1,7 @@
 {
   "update": true,
-  "versionCode": 57,
-  "versionName": "v12.hotfix",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v12.hotfix/VietMITV-v12.hotfix-TEST.apk",
-  "notes": "Fix lỗi trên một số thiết bị yêu cầu cấp quyền gỡ lỗi liên tục."
+  "versionCode": 58,
+  "versionName": "v13",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v13/VietMITV-v13.apk",
+  "notes": "-Cải thiện hiệu suất\n-Giảm độ trễ khi gọi kênh\n-Tối ưu ram"
 }
