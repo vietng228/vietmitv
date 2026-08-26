@@ -1,3 +1,7 @@
 {
-  "update": true
+  "update": true,
+  "versionCode": 56,
+  "versionName": "v12",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v12/VietMITV-v12-OTA-BatBuoc.apk",
+  "notes": "1. Fix lỗi một số kênh.\n\n2. Nâng cấp giao diện chọn kênh: kéo sang trái để hiện nhóm kênh.\n\n3. Thêm tùy chọn nhấn giữ phím sang phải để hiện bảng tùy chọn và tải lại danh sách kênh thủ công.\n\n4. Có thể đây sẽ là bản cập nhật cuối cùng nếu không còn lỗi."
 }
