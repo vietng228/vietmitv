@@ -1,7 +1,6 @@
 {
-  "update": true,
-  "versionCode": 59,
-  "versionName": "v14",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v14/VietMITV-v14-OTA.apk",
-  "notes": "- Sửa lỗi gọi các kênh SCTV bằng giọng nói.\n- Phân biệt chính xác SCTV1, SCTV10 và SCTV15.\n- Cải thiện nhận diện tên kênh có khoảng trắng hoặc cách đọc khác nhau.\n- Không còn tự mở TizenTube khi tên kênh không khớp playlist.\n- Giữ nguyên các lệnh mở nhạc, video, karaoke và YouTube."
+  "versionCode": 61,
+  "versionName": "v15",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v15/VietMITV-v15-OTA.apk",
+  "notes": "- Thêm mục Nhập playlist thủ công khi nhấn giữ phím sang phải.\n- Tối ưu tải logo kênh bằng cache RAM và bộ nhớ thiết bị.\n- Giảm việc tải lại logo khi thoát rồi mở lại ứng dụng."
 }
