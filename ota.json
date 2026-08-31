@@ -2,5 +2,5 @@
   "versionCode": 62,
   "versionName": "v16",
   "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v16/VietMITV-v16-OTA.apk",
-  "notes": "- Cải thiện nhận diện tên kênh bằng giọng nói.\n- Sửa lỗi không tìm thấy các kênh SCTV khi cách đọc có khoảng trắng.\n- Phân biệt chính xác các số kênh như SCTV1, SCTV5 và SCTV15."
+  "notes": "- Sửa lỗi nhận diện các kênh SCTV bằng giọng nói.\n- Phân biệt chính xác SCTV1, SCTV5, SCTV10 và SCTV15."
 }
