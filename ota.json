@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "v15",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v15/VietMITV-v15-OTA.apk",
-  "notes": "- Thêm mục Nhập playlist thủ công khi nhấn giữ phím sang phải.\n- Tối ưu tải logo kênh bằng cache RAM và bộ nhớ thiết bị.\n- Giảm việc tải lại logo khi thoát rồi mở lại ứng dụng."
+  "versionCode": 62,
+  "versionName": "v16",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v16/VietMITV-v16-OTA.apk",
+  "notes": "- Cải thiện nhận diện tên kênh bằng giọng nói.\n- Sửa lỗi không tìm thấy các kênh SCTV khi cách đọc có khoảng trắng.\n- Phân biệt chính xác các số kênh như SCTV1, SCTV5 và SCTV15."
 }
