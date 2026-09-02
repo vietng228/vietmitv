@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "v16",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v16/VietMITV-v16-OTA.apk",
-  "notes": "- Sửa lỗi nhận diện các kênh SCTV bằng giọng nói.\n- Phân biệt chính xác SCTV1, SCTV5, SCTV10 và SCTV15."
+  "versionCode": 63,
+  "versionName": "v17",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v17/VietMITV-v17-OTA.apk",
+  "notes": "- Chỉ yêu cầu cấp quyền gỡ lỗi USB một lần duy nhất.\n- Có thể bỏ qua để tiếp tục xem truyền hình không dùng giọng nói."
 }
