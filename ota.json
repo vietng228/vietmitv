@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "v17",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v17/VietMITV-v17-OTA.apk",
-  "notes": "- Chỉ yêu cầu cấp quyền gỡ lỗi USB một lần duy nhất.\n- Có thể bỏ qua để tiếp tục xem truyền hình không dùng giọng nói."
+  "versionCode": 64,
+  "versionName": "v18",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v18/VietMITV-v18-OTA.apk",
+  "notes": "- Thay đổi logo app dễ nhận diện.\n- Fix lỗi khó hiện cấp quyền gỡ lỗi USB sau khi cài app.\n- Loại bỏ các kênh bản quyền khỏi playlist.\n- Cải thiện độ mượt và tối ưu sự ổn định."
 }
