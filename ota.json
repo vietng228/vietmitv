@@ -1,6 +1,6 @@
 {
   "versionCode": 66,
   "versionName": "v18",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v18/VietMITV-v18-OTA.apk",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v18/VietMITV-v18.apk",
   "notes": "- Thay đổi logo app dễ nhận diện.\n- Fix lỗi khó hiện cấp quyền gỡ lỗi USB sau khi cài app.\n- Loại bỏ các kênh bản quyền khỏi playlist.\n- Cải thiện độ mượt và tối ưu sự ổn định."
 }
