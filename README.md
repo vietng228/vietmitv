@@ -2,4 +2,4 @@ Phiên bản hiện tại
 
 - Version: v18
 - Version code: 66
-- APK: `vietmitv-v18.apk`
+- APK: `VietMITV-v18.apk`
