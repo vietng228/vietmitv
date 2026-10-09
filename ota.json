@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "v20",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v20/VietMITV-v20.apk",
-  "notes": "- Tối ưu lại dung lượng app siêu nhẹ.\n- Tăng cường bảo mật.\n- Dùng giọng nói mở app Phim4K, mở app bóng đá.\n- Cải thiện độ mượt và tối ưu sự ổn định."
+  "versionCode": 78,
+  "versionName": "v21",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v21/VietMITV-GoogleTV-v21.apk",
+  "notes": "Cập nhật danh sách kênh mới.\n\nThông báo quan trọng: Bản cũ sẽ không còn xem được nữa."
 }
