@@ -1,6 +1,6 @@
 {
-  "versionCode": 78,
-  "versionName": "v21",
-  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v21/VietMITV-GoogleTV-v21.apk",
-  "notes": "Cập nhật danh sách kênh mới.\n\nThông báo quan trọng: Bản cũ sẽ không còn xem được nữa."
+  "versionCode": 79,
+  "versionName": "v22",
+  "apkUrl": "https://github.com/vietng228/vietmitv/releases/download/v22/VietMITV-GoogleTV-v22.apk",
+  "notes": "Nâng cấp giao diện theo phong cách Liquid Glass: danh sách và nhóm kênh, logo bo góc, LIVE đỏ, đồng hồ và ngày đầy đủ.\n\nGiữ nguyên chức năng phát kênh và bảo mật."
 }
