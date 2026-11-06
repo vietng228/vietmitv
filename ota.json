@@ -1,0 +1,8 @@
+{
+  "packageName": "com.vxm.voiceliquid",
+  "versionCode": 55,
+  "versionName": "v5.5",
+  "apkUrl": "https://raw.githubusercontent.com/vietng228/vietmitv/ota-voiceliquid/VietMiTV-LiquidTV-v5.5.apk",
+  "sha256": "146bad616b69148ec150047c358a9a77223e85b6c0723d00e514fbce8fec7c1a",
+  "notes": "Bản VietMiTV riêng cho LiquidTV."
+}
