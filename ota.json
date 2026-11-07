@@ -1,8 +1,8 @@
 {
   "packageName": "com.vxm.voiceliquid",
-  "versionCode": 55,
+  "versionCode": 56,
   "versionName": "v5.5",
   "apkUrl": "https://raw.githubusercontent.com/vietng228/vietmitv/ota-voiceliquid/VietMiTV-LiquidTV-v5.5.apk",
-  "sha256": "2787682e454e6250b0714204811584d03b5741bbc7a476f9fdef17307fdfe7fb",
-  "notes": "Bản VietMiTV riêng cho LiquidTV."
+  "sha256": "41af9cf6bfc13b93bcde8c02500cf114041dce3d9fdbb616fe942a7110f7bff7",
+  "notes": "Khôi phục logo và nhóm kênh từ playlist M3U. Thêm lệnh mở Karaoke."
 }
