@@ -1,8 +1,8 @@
 {
   "packageName": "com.vxm.voiceliquid",
-  "versionCode": 57,
+  "versionCode": 58,
   "versionName": "v5.6",
   "apkUrl": "https://raw.githubusercontent.com/vietng228/vietmitv/ota-voiceliquid/VietMiTV-LiquidTV-v5.6.apk",
-  "sha256": "f7b326a03b236ee3c12328b3e269961c004e1d152700caf7ef7c3f44b43fb181",
-  "notes": "Nền VietMiTV MiTV11 v5.6. Tích hợp lệnh mở ứng dụng và kiểm tra Khóa trẻ em cho LiquidTV."
+  "sha256": "cad84d2edbba2e011f417b0e0bb018348882d7de9e142ca47647d39a73616e14",
+  "notes": "Sửa thao tác bấm trái để mở và chọn nhóm kênh."
 }
